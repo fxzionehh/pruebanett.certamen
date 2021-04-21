@@ -9,8 +9,7 @@ namespace Certamen.NET
     class Consola
     {
         
-        public String nombre;
-        public String apellido;
+   
         public double monto_solicitado;
         public int cuotas;
         public double monto_total;
