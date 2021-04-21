@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Certamen.NET
 {
-    class Consola
+    class Main
     {
         
    

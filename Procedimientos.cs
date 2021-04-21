@@ -16,7 +16,7 @@ namespace Certamen.NET
             Console.WriteLine("Ponga una cantidad de cuotas :");
             int cuotas = int.Parse(Console.ReadLine());
 
-            Consola c1 = new Consola();
+            Main c1 = new Main();
                 c1.monto_solicitado = monto;
                 c1.cuotas = cuotas;
 
