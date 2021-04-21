@@ -8,7 +8,7 @@ namespace Certamen.NET
 {
     class Consola
     {
-        //Definir las variables
+        
         public String nombre;
         public String apellido;
         public double monto_solicitado;
@@ -17,7 +17,6 @@ namespace Certamen.NET
         public double valor_de_cuota;
         public double interes;
 
-        //Crear método con public void (por ahora)
         public void calcular_valor_cuotas()
         {
             if (monto_solicitado >= 500000)
