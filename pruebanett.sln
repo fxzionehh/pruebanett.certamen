@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueba.net", "prueba.net.csproj", "{5BD2D5DA-3C21-4DB8-8E15-6698B35D0708}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulador_gui", "..\Simulador_gui\Simulador_gui.csproj", "{4B8BC20F-221A-4EE7-8D68-1EFD93DBD713}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
